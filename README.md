@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭   Je suis actuellement en formation Développeur Web et Mobile à la Wild Code School
+- 🔭   Je suis actuellement en recherche active pour trouver une entreprise afin d'effectuer mon alternance de "Concepteur développeur d'applicaiton" sur 12 mois.
+En juillet dernier j'ai terminé ma formation de "Développeur Web et Mobile" à la Wild Code School durant 5 mois. Continuer par la voie de l'alternance serait extrêmement bénéfique pour la suite de mon apprentissage tant côté tenchnique que sur le plan humain et relationnel. Intégrer une entreprise en alternance me permettrait non seulement de consolider mes compétences techniques acquises au cours de ma formation à la Wild Code School, mais aussi de développer ma capacité à collaborer au sein d'une équipe professionnelle, à échanger des idées, à résoudre des problèmes de manière collective et à m'adapter aux besoins et aux défis réels du monde professionnel. Je suis convaincu que cette expérience en alternance me permettra de grandir en tant que concepteur développeur d'applications, tout en contribuant positivement à la dynamique et à la culture de votre entreprise.
+  
 -  🌱  Apprentissage  HTML/CSS Javascript, React.js, Node.js, MySQL, Express.js, Git, Tailwind ...
 
 <!--**MarionbDev/MarionbDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
