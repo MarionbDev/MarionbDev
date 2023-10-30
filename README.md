@@ -7,7 +7,7 @@ Passionnée par la tech et inspirée par ma créativité, je suis déterminée �
 Mon expérience dans la grande distribution m'a permis d'acquérir des compétences utiles à mon projet comme le travail en équipe, la persévérance, la capacité d'adaptation, le relationnel client/fournisseur...
   
 🗓️ Formation de "Développeur web et web mobile" à la Wild Code School de La Loupe, de Fin Février à fin Juillet 2023
-#JavaScript # React #Node.js #MySQL #scrum
+#JavaScript #React #Next.js #Node.js #MySQL #scrum
 
 ✅ Obtention du titre professionnel "Développeur web et web mobile", niv.5 (équiv. BAC+2), inscrit au RNCP, en Septembre 2023
 
