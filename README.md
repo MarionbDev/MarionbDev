@@ -20,6 +20,3 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
 
 ✅  Obtention du titre professionnel "Développeur web et web mobile", niv.5 (équiv. BAC+2), inscrit au RNCP, en Septembre 2023
 
-📧 marionbaston84@gmail.com
-💻#porfolio : https://marionbaston.fr
-🗂️ #github :  https://github.com/MarionbDev
