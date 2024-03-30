@@ -46,6 +46,8 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind"/>
+  
 </p>
 
 
