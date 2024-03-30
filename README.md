@@ -32,21 +32,35 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <!-- <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/> -->
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <!-- <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=C21325"/> -->
-  <!-- <img src="https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=vitest&logoColor=6E9F18"/> -->
-  <!-- <img src="https://img.shields.io/badge/-ReactTestingLibrary-black?style=flat-square&logo=testinglibrary&logoColor=E33332"/> -->
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind"/>
+  <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt"css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt"javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&"/>
+  <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  
+  <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express"/>
+  <img alt"react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img alt"nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js"/>
+  <img alt"tailwind" src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
+  
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
+  
+  
+  <!-- <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> -->
+  <!-- <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&e&logo=typescript&logoColor=white"/> -->
+  <!-- <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=C21325"/> -->
+  <!-- <img alt="vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/> -->
+
+  
+  
   
 </p>
 
@@ -69,6 +83,8 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
 <h2 align="center">My Github Stats</h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MarionbDev&show_icons=true&theme=dracula&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarionbDev&hide=html,css&theme=dracula">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MarionbDev&show_icons=true&theme=buefy&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarionbDev&langs_count=8&layout=compact&theme=buefy">
 </p>
+
+
