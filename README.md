@@ -53,8 +53,8 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
   <a href="mailto: romain.constant59@gmail.com">
    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marionbaston84@gmail.com"/>
   </a>
-  <a href="https://www.linkedin.com/in/marionbaston/">
-   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marionbaston/"/>
+  <a href="https://www.linkedin.com/in/marion-baston/">
+   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marion-baston"/>
   </a>
     <a href="https://www.marionbaston.fr/">
    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://www.marionbaston.fr/"/>
