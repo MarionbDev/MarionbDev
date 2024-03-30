@@ -60,3 +60,10 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://www.marionbaston.fr/"/>
   </a>
 </p>
+
+<h2 align="center">My Github Stats</h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MarionbDev&show_icons=true&theme=dracula&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarionbDev&hide=html,css&theme=dracula">
+</p>
