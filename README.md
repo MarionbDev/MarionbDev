@@ -5,7 +5,7 @@
 </p>
 
 
-### Hi Everyone ! 👋
+<h2>👋 Hi There ! </h2>
 
 🚀  "Oser sortir de sa zone de confort, c'est là que naissent les opportunités."
 
@@ -20,14 +20,16 @@ Aujourd'hui, en tant que développeur, je transpose ces compétences pour renfor
 
 🌐 N'hésitez pas à partager mon parcours à votre réseau ou une entreprise si mon profil correspond à une offre en CDI.
 
-Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase, HTML, CSS, Tailwind CSS.
-
 🗓️  Formation de "Développeur web et web mobile" à la Wild Code School de La Loupe, de Fin Février à fin Juillet 2023
 #javascript # react #node #MySQL #scrum #next
 
-✅  Obtention du titre professionnel "Développeur web et web mobile", niv.5 (équiv. BAC+2), inscrit au RNCP, en Septembre 2023
 
+<h2>🎓 Diplômes </h2>
 
+<p>✅  Titre professionnel "Développeur web et web mobile", niv.5 (équiv. BAC+2), inscrit au RNCP, en Septembre 2023</p>
+<p>✅  BTS "Assistant de gestion PME/PMI", 2006</p>
+<p>✅  BAC "STT Comptabilité et Gestion", 2002</p>
+</br>
 
 <h2 align="center">Technology Stack</h2>
 
@@ -36,16 +38,12 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
   <img alt"css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt"javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&"/>
   <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  
   <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express"/>
   <img alt"react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img alt"nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js"/>
   <img alt"tailwind" src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-
   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
-  
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
@@ -53,18 +51,12 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
   
-  
   <!-- <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> -->
   <!-- <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&e&logo=typescript&logoColor=white"/> -->
   <!-- <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=C21325"/> -->
   <!-- <img alt="vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/> -->
-
-  
-  
-  
 </p>
-
-
+</br>
 <h2 align="center">Contact me</h2>
 
 <p align="center">
@@ -78,7 +70,7 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://www.marionbaston.fr/"/>
   </a>
 </p>
-
+</br> 
 
 <h2 align="center">My Github Stats</h2>
 
