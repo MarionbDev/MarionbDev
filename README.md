@@ -28,6 +28,7 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
 ✅  Obtention du titre professionnel "Développeur web et web mobile", niv.5 (équiv. BAC+2), inscrit au RNCP, en Septembre 2023
 
 
+
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
@@ -47,6 +48,7 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+
 <h2 align="center">Contact me</h2>
 
 <p align="center">
@@ -60,6 +62,7 @@ Technologies utilisées : Javascript, Node.JS, React.JS, Next.JS, SQL, Suapabase
    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://www.marionbaston.fr/"/>
   </a>
 </p>
+
 
 <h2 align="center">My Github Stats</h2>
 
