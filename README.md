@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone ! 👋
 
 🚀  "Oser sortir de sa zone de confort, c'est là que naissent les opportunités."
 
