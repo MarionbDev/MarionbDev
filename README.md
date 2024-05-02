@@ -37,6 +37,7 @@ Aujourd'hui, en tant que développeur, je transpose ces compétences pour renfor
   <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt"css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt"javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&"/>
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&e&logo=typescript&logoColor=white"/>
   <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express"/>
   <img alt"react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -52,7 +53,7 @@ Aujourd'hui, en tant que développeur, je transpose ces compétences pour renfor
   <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
   
   <!-- <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> -->
-  <!-- <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&e&logo=typescript&logoColor=white"/> -->
+  
   <!-- <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=C21325"/> -->
   <!-- <img alt="vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/> -->
 </p>
