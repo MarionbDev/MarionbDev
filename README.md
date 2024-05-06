@@ -13,9 +13,9 @@ Passionnée par la tech et inspirée par ma créativité, je suis déterminée �
 
 Fort de 18 années d'expérience dans la grande distribution, j'ai acquis des compétences essentielles en coordination d'opérations marketing et ventes, encadrement d'équipe, gestion des relations fournisseurs, et résolution de problèmes, toujours axées sur la satisfaction client.
 
-Aujourd'hui, en tant que développeur, je transpose ces compétences pour renforcer la collaboration au sein des équipes et contribuer à la satisfaction des utilisateurs et clients. Ma démarche est axée sur la performance, la qualité et la création de valeur ajoutée.
+Aujourd'hui, en tant que développeuse, je transpose ces compétences pour renforcer la collaboration au sein des équipes et contribuer à la satisfaction des utilisateurs et clients. Ma démarche est axée sur la performance, la qualité et la création de valeur ajoutée.
 
-🎯 Actuellement Freelance, je suis à la recherche d'un poste (CDI) de développeur fullstack avec une appétence pour le frontend. Animée par ma passion pour le développement, je m'efforce continuellement de renforcer mes compétences à travers des projets clients. 
+🎯 Actuellement "Développeuse indépendante", je suis à la recherche d'un poste (CDI) de développeur fullstack avec une appétence pour le frontend. Animée par ma passion pour le développement, je m'efforce continuellement de renforcer mes compétences à travers des projets clients. 
 #emploi #opportunité #cdi #freelance
 
 🌐 N'hésitez pas à partager mon parcours à votre réseau ou une entreprise si mon profil correspond à une offre en CDI.
